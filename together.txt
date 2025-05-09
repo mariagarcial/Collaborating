@@ -1,1 +1,2 @@
 This project aims to use predictive analytics and customer segmentation to prompt bank staff to capture unstated customer needs more effectively at the end of service interactions. (Maria)
+My project is about studying data about homocides committed in identifed location and establish a relationsip of its root-cause using other features such as unemployment, income, policing (or lack of it), social welfare, education etc. (Jiten)  
