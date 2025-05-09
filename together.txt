@@ -1,0 +1,1 @@
+This project aims to use predictive analytics and customer segmentation to prompt bank staff to capture unstated customer needs more effectively at the end of service interactions. (Maria)
